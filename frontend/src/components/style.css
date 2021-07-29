@@ -1,0 +1,26 @@
+/* body{
+    background: linear-gradient(90deg,
+        rgba(2,0,36,1) 0%, 
+        rgba(21,5,198,0.7147233893557423) 26%,
+        rgba(0,212,255,1) 100%);
+    min-height: 100vh;
+  
+} */
+/* .card{
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items:center  ;
+    width: 50%;
+    position: relative;
+    left: 310px;
+    top: 200px;
+    color: blue;
+} */
+.navbar{
+   background-color:#dadfe4;
+}
+
+
+
+
